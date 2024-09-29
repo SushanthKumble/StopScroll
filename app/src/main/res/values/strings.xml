@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccessibiltyService</string>
+    <string name="accessibility_service_description">This service blocks scrolling for short video content.</string>
+
+</resources>
